@@ -50,3 +50,25 @@ I enjoy uncovering insights from data, building practical solutions, and continu
 <p>
   <img src="https://skillicons.dev/icons?i=pycharm,anaconda,flask" />
 </p>
+<p>
+## 📂 Featured Project
+
+### 🤖 AI Child Prediction Web App
+
+An AI-powered web application that generates a predicted child image based on uploaded photos of two parents.
+
+**Highlights**
+- 🖼️ Image upload interface
+- 🤖 AI image generation
+- 🌐 Built with Streamlit
+- 📦 Deployed online
+- 🔧 Integrated external AI APIs
+
+**Tech Stack**
+
+Python • Streamlit • Pillow • Git • GitHub
+
+➡️ **Repository:** (https://github.com/GbosiSophia/ai-child-image-generator)
+
+🌐 **Live Demo:** (https://ai-child-image-generator.onrender.com)
+</p>
