@@ -14,9 +14,8 @@
 I'm Sophia Gbosi, a Computer Science student with a growing passion for Data Science, Machine Learning, and Artificial Intelligence.
 
 I enjoy uncovering insights from data, building practical solutions, and continuously learning technologies that solve real-world problems.
-- 🔭 Currently building data science and AI projects
-- 🌱 Learning Statistics, Machine Learning and Project Management
 - 📊 Interested in Data Analytics, Predictive Modeling, and AI
+- 🌱 Learning Statistics, Machine Learning and Project Management
 - 🎯 Goal: Build impactful solutions that create real value through data
 - ☕ Fun fact: I believe in a world of possibilities, I have the mind of Christ so I would succeed in everything I commit my self to.
 
@@ -28,3 +27,26 @@ I enjoy uncovering insights from data, building practical solutions, and continu
 - 🌐 Creating my personal Data Science website
 - 🏆 Becoming a certified Project Manager
 </h5></p>
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,sqlite,git,github,vscode" />
+</p>
+
+### Data Science & Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pycharm,anaconda,flask" />
+</p>
