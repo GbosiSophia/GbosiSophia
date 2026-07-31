@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GbosiSophia&label=Profile%20Views&color=9D4EDD&style=flat" />
 </p>
-<p>
+<p><h5>
 💜 About Me
 
 I'm Sophia Gbosi, a Computer Science student with a growing passion for Data Science, Machine Learning, and Artificial Intelligence.
@@ -15,8 +15,16 @@ I'm Sophia Gbosi, a Computer Science student with a growing passion for Data Sci
 I enjoy uncovering insights from data, building practical solutions, and continuously learning technologies that solve real-world problems.
 
 🔭 Currently building data science and AI projects
-🌱 Learning Machine Learning, Statistics, and SQL
+🌱 Learning Statistics, Machine Learning and Project Management
 📊 Interested in Data Analytics, Predictive Modeling, and AI
 🎯 Goal: Build impactful solutions that create real value through data
-☕ Fun fact: I believe curiosity is the starting point of every great discovery.
-</p>
+☕ Fun fact: I believe in a world of possibilities, I have the mind of Christ so I would succeed in everything I commit my self to.
+
+## 🚀 Currently Working On
+
+- 📈 Building my Data Science portfolio
+- 🧠 Strengthening my AI and Machine Learning skills
+- 💻 Developing end-to-end data projects with Python
+- 🌐 Creating my personal Data Science website
+- 🏆 Becoming a certified Project Manager
+</h5></p>
