@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sophia Gbosi</h1>
-
+<p>
+  <h3 align="center>Driven by curiosity. Building solutions through data.</h3>
+</p
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Aspiring+Data+Scientist;Python+%7C+Machine+Learning+%7C+SQL;Curious+minds+change+the+world+through+data." />
 </p>
