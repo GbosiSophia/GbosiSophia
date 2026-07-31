@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=GbosiSophia&label=Profile%20Views&color=9D4EDD&style=flat" />
 </p>
 <p><h5>
-💜 About Me
+## 💜 About Me
 
 I'm Sophia Gbosi, a Computer Science student with a growing passion for Data Science, Machine Learning, and Artificial Intelligence.
 
