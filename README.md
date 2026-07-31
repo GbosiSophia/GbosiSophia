@@ -74,3 +74,25 @@ Python • Streamlit • Pillow • Git • GitHub
 
 🌐 **Live Demo:** (https://ai-child-image-generator.onrender.com)
 </p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GbosiSophia&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GbosiSophia&layout=compact&theme=midnight-purple&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=GbosiSophia&theme=midnight-purple&hide_border=true" />
+</p>
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sophia-g-a16753358" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <a href="mailto:gbosisophia@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
