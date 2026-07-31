@@ -27,6 +27,7 @@ I enjoy uncovering insights from data, building practical solutions, and continu
 - 🌐 Creating my personal Data Science website
 - 🏆 Becoming a certified Project Manager
 </h5></p>
+
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -51,6 +52,7 @@ I enjoy uncovering insights from data, building practical solutions, and continu
   <img src="https://skillicons.dev/icons?i=pycharm,anaconda,flask" />
 </p>
 <p>
+  
 ## 📂 Featured Project
 
 ### 🤖 AI Child Prediction Web App
